@@ -1,0 +1,31 @@
+.search-box {
+  background: #f1f7ff;
+}
+
+.search-box-image {
+  fill: #2639ed;
+}
+
+.code-box {
+  background: #fff2f8;
+}
+
+.code-image {
+  fill: #ff007a;
+}
+
+.empty-wallet-box {
+  background: #fff7e3;
+}
+
+.empty-wallet-image {
+  fill: #ff9900;
+}
+
+.bar-box {
+  background: #deffee;
+}
+
+.bar-image {
+  fill: #00da71;
+}

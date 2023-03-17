@@ -1,0 +1,26 @@
+.dev-studio {
+  margin-left: 113px;
+  margin-top: calc(88px + (27.1472px / 2));
+  font-weight: 400;
+  font-size: 27.1472px;
+  line-height: 33px;
+  color: #000000;
+  width: 190px;
+  height: 56px;
+}
+
+.nav-bar {
+  margin-right: 120px;
+  margin-top: 49px;
+}
+
+.nav-bar-list {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  justify-content: space-between;
+}
+
+.nav-link {
+  color: black;
+}

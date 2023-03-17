@@ -1,0 +1,27 @@
+.our-client {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 136px;
+  height: 124px;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.our-client-content {
+  display: flex;
+  flex-direction: column;
+  width: 336px;
+  margin-right: 60.22px;
+}
+
+.title-client {
+  margin-bottom: 17px;
+}
+
+.our-client-logos {
+  width: 803.16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
